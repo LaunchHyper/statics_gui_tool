@@ -1,0 +1,1 @@
+if( o_gameimage != -1 ) sprite_delete(o_gameimage);

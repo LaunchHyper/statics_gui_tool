@@ -1,0 +1,1 @@
+draw_sprite(spr_image,ind,x,y);
